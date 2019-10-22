@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec-generated.mm \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Folly/folly/Optional.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Folly/folly/Portability.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Folly/folly/CPortability.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Folly/folly/Traits.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Folly/folly/Utility.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h

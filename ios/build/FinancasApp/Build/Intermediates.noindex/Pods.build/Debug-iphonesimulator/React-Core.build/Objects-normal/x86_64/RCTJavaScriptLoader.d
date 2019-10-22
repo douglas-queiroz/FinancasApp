@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBundleType.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Folly/folly/Portability.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Folly/folly/CPortability.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/ios/Pods/Headers/Private/React-Core/React/RCTMultipartStreamReader.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/douglasqueiroz/git/FinancasApp/FinancasApp/node_modules/react-native/React/Base/RCTUtils.h
